@@ -1,4 +1,4 @@
-body {
+/* body {
   width: auto;
   height: 100vh;
   margin: 0;
@@ -141,31 +141,6 @@ form button:hover {
   color: black;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .card-list {
   display: flex;
   flex-wrap: wrap;
@@ -192,4 +167,4 @@ form button:hover {
 
 .card h3 {
   margin: 10px 0;
-}
+} */
